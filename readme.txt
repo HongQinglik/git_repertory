@@ -5,3 +5,5 @@ you you
 la la la
 le le le 
 hu hu hu
+go go go
+ye ye ye
